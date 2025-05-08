@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "AWS Comprehend Medical",
+    "slug": "aws-comprehend-medical",
+    "description": "Extract protected health information (PHI) and medical insights while maintaining full HIPAA compliance.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/aws-comprehend-medical.jpg",
+    "target_audience_match": "Ideal for hospital IT teams drowning in clinical text who need a secure way to extract insights without risking PHI exposure.",
+    "price": "Pay-as-you-go",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "Google Cloud Healthcare API",
+    "slug": "google-cloud-healthcare-api",
+    "description": "Securely store, transform, and analyze health data in a HIPAA-compliant environment using AI.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/google-cloud-healthcare-api.jpg",
+    "target_audience_match": "Perfect for health system architects overwhelmed by siloed data and compliance mandates.",
+    "price": "From $0.10/GB/month",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Vigilant AI by VantIQ",
+    "slug": "vigilant-ai-vantiq",
+    "description": "Real-time compliance monitoring and event-driven AI for high-security environments like banks and retail.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/vigilant-ai-vantiq.jpg",
+    "target_audience_match": "Great fit for compliance officers and IT leads in commercial spaces who can’t afford to miss a security lapse.",
+    "price": "Enterprise pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "Azure Health Bot",
+    "slug": "azure-health-bot",
+    "description": "Deploy compliant AI-powered bots for healthcare settings that handle PHI with care.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/azure-health-bot.jpg",
+    "target_audience_match": "Ideal for healthcare admins desperate to scale patient engagement without violating HIPAA.",
+    "price": "From $0.0015/message",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "Armor Anywhere",
+    "slug": "armor-anywhere",
+    "description": "Cloud security and compliance monitoring platform for HIPAA and PCI-certified environments.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/armor-anywhere.jpg",
+    "target_audience_match": "Designed for compliance-wary IT leaders who need airtight protection for sensitive financial or health data.",
+    "price": "From $99/month",
+    "data-link": "pending"
+  }
+]
